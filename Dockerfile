@@ -7,6 +7,7 @@ ENV ZONE=example.com \
     HOST=example.com \
     EMAIL=example@example.com \
     API=1111111111111111 \
+    REQUESTPROXY=none \
     TTL=1 \
     PROXY=true \
     DEBUG=false
